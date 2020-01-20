@@ -6,9 +6,12 @@ categories: blog
 ---
 
 Hi there ! 
-I am 
-Yudhir Khaanal
-Applications Developer for the Web and Mobile. 
+I am Yudhir Khanal.
+Applications Developer for the Web and Mobile(Android) 
 
+Java-Kotlin, PHP , JS
+DBs
+APIS
 https://yudhir.com.np
+
 
