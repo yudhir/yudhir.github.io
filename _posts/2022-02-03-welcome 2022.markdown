@@ -1,0 +1,17 @@
+---
+layout: single
+title:  "Hello 2022!"
+date:   2021-02-03 05:32:44 -0500
+categories: blog
+---
+
+Year 2021 has been Quarantined . 
+Hello 2022
+
+What's Next!
+
+Metaverse , Quantum Computing , AI Era 
+
+Looking forward . 
+
+https://yudhir.com.np
