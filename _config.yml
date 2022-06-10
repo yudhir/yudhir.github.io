@@ -84,3 +84,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/zuck"
+    - label: "Paypal"
+      icon: "fab fa-fw fa-paypal"
+      url: "https://www.paypal.com/donate/?hosted_button_id=PYSFRZU6UC892"
