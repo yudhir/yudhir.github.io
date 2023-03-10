@@ -16,6 +16,9 @@ gem 'jekyll-theme-cayman'
 
 gem "minimal-mistakes-jekyll"
 
+gem "activesupport",">=6.1.7.1"
+gem "commonmarker",">=0.23.7"
+
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
