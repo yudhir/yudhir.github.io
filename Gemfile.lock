@@ -214,8 +214,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.6)
-  jekyll-theme-cayman (~> 0.1.1)
+  jekyll-feed
+  jekyll-theme-cayman
   minimal-mistakes-jekyll
   tzinfo-data
 
