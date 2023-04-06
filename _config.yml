@@ -20,14 +20,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yudhir.com.np" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yudhir.com.np" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: y2kyudhir
 github_username:  yudhir
 
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 
 paginate: 5
 
@@ -51,6 +51,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: blog
+    values:
+      sidebar:
+        nav: "sidebarnav"
 
 author:
   name   : "Yudhir Khanal"
@@ -72,12 +80,7 @@ author:
     - label: "Paypal"
       icon: "fab fa-fw fa-paypal"
       url: "https://www.paypal.com/donate/?hosted_button_id=PYSFRZU6UC892"
-      
-sidebar:
-  - title: "Login"
-  - icon: "fa-light fa-lock"
-  - url: "https://majestic-puffpuff-110c47.netlify.app/admin/"
-  
+        
   
 footer:
   links:
