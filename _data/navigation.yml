@@ -1,12 +1,12 @@
 main:
   - title: "Login"
-    url: 'https://majestic-puffpuff-110c47.netlify.app/'
+    url: 'https://majestic-puffpuff-110c47.netlify.app/admin'
     
 sidebarnav:
   - title: Admin
     children:
       - title: "Login"
-        url: 'https://majestic-puffpuff-110c47.netlify.app/'
-      - title: "Repository"
+        url: 'https://majestic-puffpuff-110c47.netlify.app/admin'
+      - title: "Site Repository"
         url: 'https://github.com/yudhir/yudhir.github.io'
       

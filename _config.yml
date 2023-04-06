@@ -55,7 +55,7 @@ defaults:
   # _docs
   - scope:
       path: ""
-      type: blog
+      type: posts
     values:
       sidebar:
         nav: "sidebarnav"
