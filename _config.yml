@@ -72,7 +72,13 @@ author:
     - label: "Paypal"
       icon: "fab fa-fw fa-paypal"
       url: "https://www.paypal.com/donate/?hosted_button_id=PYSFRZU6UC892"
-
+      
+sidebar:
+  - title: "Login"
+  - icon: "fa-light fa-lock"
+  - url: "https://majestic-puffpuff-110c47.netlify.app/admin/"
+  
+  
 footer:
   links:
     - label: "Twitter"
