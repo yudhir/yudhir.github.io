@@ -57,6 +57,10 @@ defaults:
       path: ""
       type: posts
     values:
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
       sidebar:
         nav: "sidebarnav"
 
