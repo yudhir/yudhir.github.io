@@ -4,7 +4,9 @@ title: Privacy Policy
 date: 2024-05-26T10:57:29.110Z
 ---
 
-**Lukla Divison:Y2KDesignworks**("We" or "Us") has adopted this privacy policy ("Privacy Policy") to explain how **Lukla Divison:Y2KDesignworks** collects, stores and uses the user ("User" or "You") information acquired in connection with our applications and services ("Service"). This policy applies to all **Lukla Divison:Y2KDesignworks** Services unless the Service has an overriding policy. *Personal information* in this document means but is not limited to: first name, last name, phone number, contacts, messages, calendar and plaintext device identifiers. We respect our Users' privacy and continuously work to achieve a reasonable level of security for *Personal information*.
+**Lukla Divison:Y2KDesignworks**("We" or "Us") has adopted this privacy policy ("Privacy Policy") to explain how **Lukla Divison:Y2KDesignworks** collects, stores and uses the user ("User" or "You") information acquired in connection with our applications and services ("Service"). This policy applies to all **Lukla Divison:Y2KDesignworks** Services unless the Service has an overriding policy.
+
+*Personal information* in this document means but is not limited to: first name, last name, phone number, contacts, messages, calendar and plaintext device identifiers. We respect our Users' privacy and continuously work to achieve a reasonable level of security for *Personal information*.
 
 ### What information does the Service obtain and how is it used?
 
