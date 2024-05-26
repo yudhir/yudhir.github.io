@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: single
 title: Privacy Policy
 date: 2024-05-26T10:57:29.110Z
-categories: 
 ---
 
 
