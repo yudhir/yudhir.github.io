@@ -7,7 +7,7 @@ date: 2024-05-26T10:57:29.110Z
 
 ## Privacy Policy
 
-We have adopted this privacy policy ("Privacy Policy") to explain how It collects, stores and uses the user ("User" or "You") information acquired in connection with our applications and services ("Service"). This policy applies to all Our Services unless the Service has an overriding policy. *Personal information* in this document means but is not limited to: first name, last name, phone number, contacts, messages, calendar and plaintext device identifiers. We respect our Users' privacy and continuously work to achieve a reasonable level of security for *Personal information*.
+**Lukla Divison:Y2KDesignworks**("We" or "Us") has adopted this privacy policy ("Privacy Policy") to explain how **Lukla Divison:Y2KDesignworks** collects, stores and uses the user ("User" or "You") information acquired in connection with our applications and services ("Service"). This policy applies to all Y2KDesignworks**Lukla Divison:Y2KDesignworks** Services unless the Service has an overriding policy. *Personal information* in this document means but is not limited to: first name, last name, phone number, contacts, messages, calendar and plaintext device identifiers. We respect our Users' privacy and continuously work to achieve a reasonable level of security for *Personal information*.
 
 ### What information does the Service obtain and how is it used?
 
@@ -24,9 +24,13 @@ We don't collect or store any Personal information.  Please review each and ever
 ### Game Services
 
 Service may display Leaderboards or Achievements using Google Play Services. Your use of Game Services is expecting you agree to their terms of use. We do not collect or store any Personal information from Game Services. Other information from Game Services is used only for gaming purpose - Leaderboards or Achievements.
-### Data and Account Deletion
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+### Children
+
+The Application is not used to knowingly solicit data from or market to children under the age of 13.
+### What are my opt-out rights?
+
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. If you have any questions or concerns  please contact us at y2kdesignworks@gmail.com
 ### Your acceptance of these terms
 
 By using Service you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Service. Our privacy policy may change from time to time. Your continued use of the Service following the posting of changes to this policy will be deemed your acceptance of those changes.
@@ -34,4 +38,3 @@ By using Service you signify your acceptance of this policy. If you do not agree
 If you have any questions or concerns about our privacy policies, please contact us at y2kdesignworks@gmail.com
 
     All Trademarks belong to their rightful Owners
-
